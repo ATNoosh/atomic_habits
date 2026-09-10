@@ -1,0 +1,10 @@
+{
+  "name": "Atomic Habits",
+  "short_name": "Habits",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#111827",
+  "description": "A tiny personal habit tracker inspired by Atomic Habits."
+}
